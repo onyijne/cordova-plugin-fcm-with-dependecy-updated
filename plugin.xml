@@ -120,7 +120,7 @@
 			</config>
 			<pods>
 				<pod name="Firebase/Analytics" spec=">= 6.21.0" />
-				<pod name="Firebase/Messaging" spec=">= 6.21.0" />
+				<pod name="Firebase/Messaging" spec="~> 6.34.0" />
 			</pods>
 		</podspec>
 
